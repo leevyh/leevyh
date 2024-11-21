@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi there I'm Livia 
+  
+### 🎓 Education
+Currently in professional retraining at the 42 school in Paris after having worked as an integration advisor for refugees and a French trainer.
 
-<!--
-**leevyh/leevyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Projects
+Here are some of the projects I have worked on:
 
-Here are some ideas to get you started:
+**Transcendence / Development of a Pong website:** \
+Design and development of a Single Page Application (SPA) website allowing users to play a tournament of the famous Pong game in real time, with user management, real-time chat and accessibility for visually impaired users.\
+Technologies used: HTML, CSS, JavaScript, Bootstrap, Python, Django, Django Channels, PostgreSQL, Websockets, Docker, NGINX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ft_IRC / Conception of an IRC Server:**\
+Development of an IRC server in C++ 98 to allow real-time communication between users. Creation of channels, implementation of operators and specific commands such as KICK, INVITE, MODE, TOPIC, etc.\
+Technologies used: C++ 98 (-> restriction).
+
+### 🛠️ Technical Skills
+Software language: C, C++, Python \
+Web Language: Javascript, Python \
+Frameworks and Libraries: Django, NGINX \
+Development tools: Git, Docker \
+Databases: MySQL, PostgreSQL \
+...and more to come !
+
+### 🌱 Currently working on new projects :
+**Matcha project / Development of a dating site:**\
+Creation of a dating website with registration, user profile, list of suggestions, research, matching system, real-time chat and notifications.\
+Technologies used: Node.js, Express.js, React.js, PostgreSQL.
+
+### 📫 Contact me
+Mail: lkoletzk@student.42.fr
