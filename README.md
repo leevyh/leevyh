@@ -28,4 +28,4 @@ Creation of a dating website with registration, user profile, list of suggestion
 Technologies used: Node.js, Express.js, React.js, PostgreSQL.
 
 ### 📫 Contact me
-Mail: lkoletzk@student.42.fr
+Mail: livia.koletzki@hotmail.fr
