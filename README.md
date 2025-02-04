@@ -25,7 +25,7 @@ Databases: MySQL, PostgreSQL \
 ### 🌱 Currently working on new projects :
 **Matcha project / Development of a dating site:**\
 Creation of a dating website with registration, user profile, list of suggestions, research, matching system, real-time chat and notifications.\
-Technologies used: Node.js, Python, PostgreSQL.
+Technologies used: Node.js, Express, React.js (Next.js), Neo4j, Docker, etc.
 
 ### 📫 Contact me
 Mail: livia.koletzki@hotmail.fr
